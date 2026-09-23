@@ -240,7 +240,7 @@ function setupAudio() {
     });
 
     const desc = document.createElement("p");
-    desc.innerText = "BE FAST AS F*CK BOiiiiii!!!!!";
+    desc.innerText = "BE FAST BOiiiiii!!!!!";
     Object.assign(desc.style, {
         margin: "0",
         fontSize: "13px",
